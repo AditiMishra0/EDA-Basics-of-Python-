@@ -1,6 +1,6 @@
 # Experiment - 15 - NLP Techniques on Text Data in Python
 
-Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to understand, interpret, and generate human language in a way that is both meaningful and contextually relevant.
+Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to understand, interpret, and generate human language in a way that is both meaningful and contextually relevant. 
 
 ### Aim:
 To implement NLP texts on Text data in Python
