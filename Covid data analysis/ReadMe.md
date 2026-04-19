@@ -66,6 +66,8 @@ The second phase of the project shifted focus entirely to India. By filtering th
 ### Regional Breakdown
 The data revealed that cases were tracked across 38 distinct entities, encompassing all states and union territories. Grouping the data by `Province/State` for the latest observation date allowed us to see exactly where the virus was most concentrated.
 
+<img width="2472" height="1462" alt="image" src="https://github.com/user-attachments/assets/40436f2a-7b64-4348-9d16-32a8e57ed7da" />
+
 ### Advanced Mapping with GeoJSON
 To visualize this regional data, standard country names were insufficient. A custom GeoJSON file (`india.json`) containing the exact geographical coordinates of Indian state borders was integrated. By matching the feature key (e.g., `properties.st_nm`) in the GeoJSON to the `Province/State` column in our DataFrame, a highly detailed, interactive map of India was generated using a purple color scale to depict case density.
 
