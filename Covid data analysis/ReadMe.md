@@ -1,11 +1,4 @@
-# COVID-19 Data Analysis (Experiment 19 and 20)
-
-**Name:** Khush Chauhan  
-**PRN:** 25070123062  
-**Batch:** A3  
-**Date:** 15/04/2026  
-
----
+# COVID-19 Data Analysis 
 
 ## 1. Introduction
 
