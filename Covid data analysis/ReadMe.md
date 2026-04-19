@@ -40,6 +40,8 @@ The filtering process yielded a snapshot of 765 data points across 195 unique co
 ### Geospatial Visualization
 Using Plotly Express, a global choropleth map was generated (`locations="Country/Region"`). This color-coded map provided immediate visual context, highlighting hotspots in North America, South America, and South Asia based on confirmed case intensity.
 
+<img width="2690" height="1414" alt="image" src="https://github.com/user-attachments/assets/359391a3-94e9-4ad0-b54c-98d766029df3" />
+
 
 
 ### Top 5 Most Affected Countries
